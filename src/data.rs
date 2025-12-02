@@ -5,72 +5,72 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
     vec![
         Product {
             id: 1,
-            name: "Contoso Catnip's Friend".to_string(),
-            price: 9.99,
-            description: "Watch your feline friend embark on a fishing adventure with Contoso Catnip's Friend toy. Packed with irresistible catnip and dangling fish lure.".to_string(),
+            name: "PNY GeForce RTX 5070 ARGB OC 12GB GDDR7 Video Card".to_string(),
+            price: 999.99,
+            description: "Powered by NVIDIA Blackwell architecture and DLSS 4, this GDDR7 video card boosts gaming and AI performance. With 4th gen ray tracing and 6,144 CUDA cores, it delivers immersive, lag-free experience.".to_string(),
             image: "/catnip.jpg".to_string()
         },
         Product {
             id: 2,
-            name: "Salty Sailor's Squeaky Squid".to_string(),
-            price: 6.99,
-            description: "Let your dog set sail with the Salty Sailor's Squeaky Squid. This interactive toy provides hours of fun, featuring multiple squeakers and crinkle tentacles.".to_string(),
+            name: "PNY GeForce RTX5060 Ti OC Dual-Fan16GB GDDR7 Video Card".to_string(),
+            price: 579.99,
+            description: "Powered by the cutting-edge NVIDIA Blackwell architecture, it features GDDR7 memory and supports resolutions up to 7680 x 4320 for breathtaking visual clarity.".to_string(),
             image: "/squid.jpg".to_string()
         },
         Product {
             id: 3,
-            name: "Mermaid's Mice Trio".to_string(),
-            price: 12.99,
-            description: "Entertain your kitty with the Mermaid's Mice Trio. These adorable plush mice are dressed as mermaids and filled with catnip to captivate their curiosity.".to_string(),
+            name: "NVIDIA GeForce RTX 5070 12GB GDDR7 Video Card".to_string(),
+            price: 799.99,
+            description: "Designed for creators, this video card features 12GB of GDDR7 memory and 675GB/sec memory bandwidth for fast data transfer and seamless performance.".to_string(),
             image: "/mermaid.jpg".to_string()
         },
         Product {
             id: 4,
-            name: "Ocean Explorer's Puzzle Ball".to_string(),
-            price: 11.99,
-            description: "Challenge your pet's problem-solving skills with the Ocean Explorer's Puzzle Ball. This interactive toy features hidden compartments and treats, providing mental stimulation and entertainment.".to_string(),
+            name: "PNY GeForce RTX 5060 OC 8GB GDDR7 Video Card".to_string(),
+            price: 399.99,
+            description: "Powered by cutting-edge NVIDIA Blackwell architecture and DLSS 4, it delivers ultra-smooth frame rates and stunning visuals. Accelerate your creative workflow via NVIDIA Studio. Plus, NVIDIA Reflex 2 minimizes system latency for ultra-responsive gameplay.".to_string(),
             image: "/ocean.jpg".to_string()
         },
         Product {
             id: 5,
-            name: "Pirate Parrot Teaser Wand".to_string(),
-            price: 8.99,
-            description: "Engage your cat in a playful pursuit with the Pirate Parrot Teaser Wand. The colorful feathers and jingling bells mimic the mischievous charm of a pirate's parrot.".to_string(),
+            name: "ASUS Prime Radeon RX 9070 XT OC 16GB GDDR6 Video Card".to_string(),
+            price: 879.99,
+            description: "Boost your CPU's power with the ASUS Prime Radeon RX 9070 XT OC graphics card. Equipped with advanced Axial-tech fans and a phase-change GPU thermal pad, it offers optimal cooling and performance. The 2.5-slot design ensures compatibility, while the protective backplate and stainless steel bracket enhance durability.".to_string(),
             image: "/pirate.jpg".to_string()
         },
         Product {
             id: 6,
-            name: "Seafarer's Tug Rope".to_string(),
-            price: 14.99,
-            description: "Tug-of-war meets nautical adventure with the Seafarer's Tug Rope. Made from marine-grade rope, it's perfect for interactive play and promoting dental health in dogs.".to_string(),
+            name: "MSI Gaming RTX 5060 8G Gaming Trio OC White Graphics Card".to_string(),
+            price: 514.99,
+            description: "Based on the Blackwell architecture, the MSI GeForce RTX 5060 GAMING TRIO OC WHITE Graphics Card brings the power of real-time ray tracing and AI to your PC games. Play your favorite titles at a high resolution with high frame rates. The GPU features 8GB of GDDR7 VRAM and a 128-bit memory interface".to_string(),
             image: "/tug.jpg".to_string()
         },
         Product {
             id: 7,
-            name: "Seashell Snuggle Bed".to_string(),
-            price: 19.99,
-            description: "Give your furry friend a cozy spot to curl up with the Seashell Snuggle Bed. Shaped like a seashell, this plush bed provides comfort and relaxation for cats and small dogs.".to_string(),
+            name: "XFX Speedster MERC310 AMD Radeon RX 7900XTX Black Gaming Graphics Card".to_string(),
+            price: 1269.99,
+            description: "The XFX AMD Radeon RX 7000 Series graphics cards, featuring the groundbreaking AMD RDNA 3 architecture, deliver ultra-high frame rates for your favorite games at 4K max settings.".to_string(),
             image: "/bed.jpg".to_string()
         },
         Product {
             id: 8,
-            name: "Nautical Knot Ball".to_string(),
-            price: 7.99,
-            description: "Unleash your dog's inner sailor with the Nautical Knot Ball. Made from sturdy ropes, it's perfect for fetching, tugging, and satisfying their chewing needs.".to_string(),
+            name: "ASUS Dual NVIDIA GeForce RTX 3050 6GB OC Edition Gaming Graphics Card ".to_string(),
+            price: 477.99,
+            description: "ASUS Dual NVIDIA GeForce RTX 3050 6GB OC Edition Gaming Graphics Card - PCIe 4.0, 6GB GDDR6 Memory, HDMI 2.1, DisplayPort 1.4a, 2-Slot Design, Axial-tech Fan Design, 0dB Technology, Steel Bracket.".to_string(),
             image: "/knot.jpg".to_string()
         },
         Product {
             id: 9,
-            name: "Contoso Claw's Crabby Cat Toy".to_string(),
-            price: 3.99,
-            description: "Watch your cat go crazy for Contoso Claw's Crabby Cat Toy. This crinkly and catnip-filled toy will awaken their hunting instincts and provide endless entertainment.".to_string(),
+            name: "GIGABYTE GeForce RTX 5060 WINDFORCE 8G Graphics Card,".to_string(),
+            price: 317.99,
+            description: "GIGABYTE WINDFORCE GeForce RTX 5060 8GB GDDR7 PCI Express 5.0 ATX Graphics Card".to_string(),
             image: "/crabby.jpg".to_string()
         },
         Product {
             id: 10,
-            name: "Ahoy Doggy Life Jacket".to_string(),
-            price: 5.99,
-            description: "Ensure your furry friend stays safe during water adventures with the Ahoy Doggy Life Jacket. Designed for dogs, this flotation device offers buoyancy and visibility in style.".to_string(),
+            name: "EVGA GeForce RTX 3090 FTW3 Gaming 24GB GDDR6X 19500MHz PCIe 4.0 Black Graphic Card ".to_string(),
+            price: 1500.99,
+            description: "The EVGA GeForce® RTXᐪᔿ 3090 is colossally powerful in every way imaginable, giving you a whole new tier of performance at 8K resolution. It's powered by the NVIDIA Ampere architecture, which doubles down on ray tracing and AI performance with enhanced RT Cores, Tensor Cores, and new streaming multiprocessors.".to_string(),
             image: "/lifejacket.jpg".to_string()
         }
     ]
