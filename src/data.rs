@@ -64,7 +64,7 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
             name: "GIGABYTE GeForce RTX 5060 WINDFORCE 8G Graphics Card,".to_string(),
             price: 317.99,
             description: "GIGABYTE WINDFORCE GeForce RTX 5060 8GB GDDR7 PCI Express 5.0 ATX Graphics Card".to_string(),
-            image: "/item9.jpg".to_string()
+            image: "/item9.png".to_string()
         },
         Product {
             id: 10,
